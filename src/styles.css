@@ -19,12 +19,6 @@ body {
   vertical-align: top;
 }
 
-/*@media (min-width: 50%){
-.table .row .table-cell{
-
-}
-}*/
-
 header {
   background-color: #1a2588;
   margin: 10px 10px 0 10px; /* removes bottom margin which does not collapse with top border-spacing */
